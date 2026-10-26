@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Concentration and changing interdependence in production and banking networks: replication code"
+authors:
+  - family-names: Riso
+    given-names: Luigi
+    affiliation: "Università Cattolica del Sacro Cuore"
+  - family-names: Zoia
+    given-names: Maria Grazia
+    affiliation: "Università Cattolica del Sacro Cuore"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-26"
