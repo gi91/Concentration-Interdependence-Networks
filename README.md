@@ -2,7 +2,7 @@
 
 Replication code for
 
-> Riso, L. and Zoia, M. G. *Concentration and changing interdependence in production and banking networks.*
+>  Quatto P.,  Riso, L. and Zoia, M. G. *Concentration and changing interdependence in production and banking networks.*
 
 The code reproduces every table, figure and simulation of the paper and of its Supplementary Material, from the raw public data to the final numbers. It is written in R. One sampler is written in C++ and called from R through Rcpp.
 
